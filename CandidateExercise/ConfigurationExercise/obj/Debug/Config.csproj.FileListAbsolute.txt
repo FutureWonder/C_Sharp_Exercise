@@ -1,8 +1,0 @@
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\bin\Debug\Configuration_Exercise.dll.config
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\bin\Debug\Configuration_Exercise.dll
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\bin\Debug\Configuration_Exercise.pdb
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\bin\Debug\log4net.dll
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\bin\Debug\log4net.xml
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\obj\Debug\Config.csproj.CoreCompileInputs.cache
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\obj\Debug\Configuration_Exercise.dll
-C:\Work Projects\FutureWonder\Code\C_Sharp_Exercise\CandidateExercise\ConfigurationExercise\obj\Debug\Configuration_Exercise.pdb
